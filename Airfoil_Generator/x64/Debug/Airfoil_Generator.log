@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Archive\Cpp Code\Code\Airfoil_Generator\Airfoil_Generator\main.cpp(82,31): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Archive\Cpp Code\Code\Airfoil_Generator\Airfoil_Generator\main.cpp(82,31): warning C4244:         with
+C:\Archive\Cpp Code\Code\Airfoil_Generator\Airfoil_Generator\main.cpp(82,31): warning C4244:         [
+C:\Archive\Cpp Code\Code\Airfoil_Generator\Airfoil_Generator\main.cpp(82,31): warning C4244:             _Ty=float
+C:\Archive\Cpp Code\Code\Airfoil_Generator\Airfoil_Generator\main.cpp(82,31): warning C4244:         ]
+C:\Archive\Cpp Code\Code\Airfoil_Generator\Airfoil_Generator\main.cpp(83,29): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Archive\Cpp Code\Code\Airfoil_Generator\Airfoil_Generator\main.cpp(83,29): warning C4244:         with
+C:\Archive\Cpp Code\Code\Airfoil_Generator\Airfoil_Generator\main.cpp(83,29): warning C4244:         [
+C:\Archive\Cpp Code\Code\Airfoil_Generator\Airfoil_Generator\main.cpp(83,29): warning C4244:             _Ty=float
+C:\Archive\Cpp Code\Code\Airfoil_Generator\Airfoil_Generator\main.cpp(83,29): warning C4244:         ]
+C:\Archive\Cpp Code\Code\Airfoil_Generator\Airfoil_Generator\main.cpp(398,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Archive\Cpp Code\Code\Airfoil_Generator\Airfoil_Generator\main.cpp(402,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Archive\Cpp Code\Code\Airfoil_Generator\Airfoil_Generator\main.cpp(406,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Archive\Cpp Code\Code\Airfoil_Generator\Airfoil_Generator\main.cpp(410,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Archive\Cpp Code\Code\Airfoil_Generator\Airfoil_Generator\main.cpp(414,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Airfoil_Generator.vcxproj -> C:\Archive\Cpp Code\Code\Airfoil_Generator\x64\Debug\Airfoil_Generator.exe
